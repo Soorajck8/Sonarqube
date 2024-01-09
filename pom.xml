@@ -43,6 +43,7 @@
              
     </dependencies>
 	
+<build>
 	<plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
@@ -62,5 +63,6 @@
                     </execution>
                 </executions>
            </plugin>
+</build>
 	
 </project>
