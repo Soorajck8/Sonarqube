@@ -20,8 +20,6 @@
         <sonar.language>java</sonar.language>
              
     </properties>
-             
-    </properties>
 
     <dependencies>
         <dependency>
